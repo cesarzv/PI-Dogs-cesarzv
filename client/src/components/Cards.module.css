@@ -1,0 +1,6 @@
+.cardsCont {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px 30px;
+  background-color: black;
+}
